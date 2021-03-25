@@ -1,0 +1,20 @@
+favoritepet = [ "Cat - 100" , "Dog - 200 ", "Fish - 50"]
+
+for x in favoritepet:
+  print (x)
+
+for x in "cat":
+  print(x)
+
+for x in "dog":
+  print(x)
+
+for x in "fish":
+  print(x)
+
+i = 100 
+while i < 200: 
+  print(i)
+  i += 100
+else: 
+    print("200 - dog is more popular pet")
